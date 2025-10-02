@@ -1,0 +1,24 @@
+{
+    "personeelsgegevens": {
+        "naam": "Piet de Jong",
+        "beroepstype": "Mechanisch Monteur",
+        "bevoegdheid": "Senior",
+        "leeftijd": 45
+    },
+    "weergegevens": {
+        "temperatuur": 18,
+        "neerslag": "Geen",
+        "windkracht": 3
+    },
+    "dagtaken": [
+        {
+            "id": 1,
+            "beschrijving": "Olie verversen hydraulische systeem",
+            "duur": 60,
+            "fysieke_belasting": 25,
+            "prioriteit": "Hoog",
+            "is_overdekt": true
+        }
+    ],
+    "totale_duur": 60
+}
