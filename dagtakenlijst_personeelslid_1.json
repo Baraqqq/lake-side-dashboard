@@ -1,0 +1,20 @@
+{
+    "personeelsgegevens": {
+        "naam": "Piet de Jong",
+        "beroepstype": "Mechanisch Monteur",
+        "bevoegdheid": "Senior",
+        "leeftijd": 45
+    },
+    "weergegevens": {},
+    "dagtaken": [
+        {
+            "id": 3,
+            "omschrijving": "Mechanisch onderhoud aan scharnieren",
+            "duur": 45,
+            "fysieke_belasting": 25,
+            "prioriteit": "hoog",
+            "is_buitenwerk": 0
+        }
+    ],
+    "totale_duur": 45
+}

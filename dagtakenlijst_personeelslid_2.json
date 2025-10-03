@@ -1,0 +1,20 @@
+{
+    "personeelsgegevens": {
+        "naam": "Aisha Rahmani",
+        "beroepstype": "Elektrisch Monteur",
+        "bevoegdheid": "Junior",
+        "leeftijd": 26
+    },
+    "weergegevens": {},
+    "dagtaken": [
+        {
+            "id": 1,
+            "omschrijving": "Controle op veiligheidssensoren",
+            "duur": 120,
+            "fysieke_belasting": 15,
+            "prioriteit": "laag",
+            "is_buitenwerk": 1
+        }
+    ],
+    "totale_duur": 120
+}
